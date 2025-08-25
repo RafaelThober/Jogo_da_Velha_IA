@@ -11,11 +11,7 @@ Pré-requisitos
 - Node.js (14+ recomendado) e npm instalados no sistema.
 
 Instalação e execução
-1. No terminal, abra a pasta do projeto:
-
-```powershell
-cd "C:\Faculdade\Jogo da Velha"
-```
+1. No terminal, abra a pasta do projeto
 
 2. Instale dependências e execute:
 
