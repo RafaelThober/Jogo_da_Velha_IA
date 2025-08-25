@@ -1,0 +1,2 @@
+# No external dependencies; uses Python standard library (tkinter)
+# If tkinter is missing on your system, install the OS-specific package.

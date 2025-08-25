@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe-electron",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe with AI (easy, medium, hard) using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
